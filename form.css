@@ -1,0 +1,48 @@
+.f1_container{
+    margin-left: 200px;
+    margin-top: 150px;
+         background-color: purple;
+         width: 800px;
+         height: 600px;
+}
+.continer{
+    height: 600px;
+    width: 300px;
+    background-color: rgb(238, 241, 241);
+  
+    padding-left: 25px;
+  
+}
+.headding{
+    padding-top: 20PX;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
