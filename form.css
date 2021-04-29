@@ -3,11 +3,13 @@
     margin-top: 150px;
          width: 800px;
          height: 600px;
+   
 }
 .continer{
     height: 600px;
     width: 300px;
     padding-left: 25px;
+    background-color: rgb(194, 202, 202);
   
 }
 .headding{
